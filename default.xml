@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" revision="develop" fetch="ssh://git@github.com/smipi1/"/>
+  <remote name="origin" revision="master" fetch="ssh://git@github.com/smipi1/"/>
   <project remote="origin" name="test-projectA" path="projectA"/>
   <project remote="origin" name="test-projectB" path="projectB"/>
 </manifest>
